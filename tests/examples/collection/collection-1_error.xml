@@ -2,13 +2,13 @@
 <col:collection xmlns:col="http://example.com/ns/collection"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://example.com/ns/collection collection.xsd">
-	<object id="b0836217462" available="true">
+	<object id="0836217462" available="true">
 		<position>1</position>
 		<title>The Umbrellas</title>
 		<year>1886</year>
 		<author id="PAR">
 			<name>Pierre-Auguste Renoir</name>
-			<born>1841-02-25</born>
+			<born>1841-20-25</born>
 			<dead>1919-12-03</dead>
 			<qualification>painter</qualification>
 		</author>
