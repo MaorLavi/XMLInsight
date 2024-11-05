@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vh:vehicles xmlns:vh="http://example.com/vehicles"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://example.com/vehicles vehicles.xsd">
+  <vh:cars2>
+    <vh:car5 make="Porsche" blabla="567" >
+      <vh:cars7 />
+    </vh:car5>
+    <!-- Comment -->
+    <vh:car6 make="Porsche" model="911" />
+  </vh:cars2>
+  <vh:bikes>
+    <vh:bike abc="123" def="456" />
+    <vh:bike make="Yamaha" model="XS650" />
+  </vh:bikes>
+</vh:vehicles>
